@@ -19,7 +19,7 @@ This project provides an educational platform to learn and apply Active Director
 - Sysmon: Windows tool for detailed system activity logging and monitoring.
 - Kali Linux: Penetration testing OS used for ethical hacking and brute-force attacks.
 - Atomic Red Team: Framework for simulating attacks based on MITRE ATT&CK techniques.
-- 
+  
 ## Steps
 
 *Ref 1: Network Diagram*
