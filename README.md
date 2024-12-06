@@ -52,24 +52,79 @@ This project provides an educational platform to learn and apply Active Director
 </div>
 <br><br> <!-- Adds extra space between sections -->
 
-*Ref 6: Change Host Name to Target Machine.*
+*Ref 6: Create Share directory on Ubuntu Splunk server as a mount point for the shared folder containing the Splunk installer.*
+
+*Ref 7: Enable BootStart which instructs Splunk to configure itself to start automatically at boot time.*
+
+
+*Ref 8: Change Host Name to Target Machine.*
 <div style="display: flex; gap: 20px;">
   <img src="https://github.com/user-attachments/assets/37167de3-6bde-4f48-8f92-ce3803bd0971" alt="Rename Target Machine" width="300" height="200">
   <img src="https://github.com/user-attachments/assets/683a7ed1-9ebc-4e20-ad75-6a060080697f" alt="Rename Target Machine Pt2" width="300" height="200">
 </div>
 <br><br> <!-- Adds extra space between sections -->
 
-*Ref 7: Change IPv4 Address on Target Machine to Avoid Conflict with Windows Server's VM Address.*
+*Ref 9: Change IPv4 Address on Target Machine to Avoid Conflict with Windows Server's VM Address.*
 <div style="display: flex; gap: 20px;">
   <img src="https://github.com/user-attachments/assets/0ba970f1-bccd-44c1-a710-5da770c24e5d" alt="Change IPv4 Address on Target Machine" width="300" height="200">
   <img src="https://github.com/user-attachments/assets/a2094e4c-9a4b-4633-8e3a-d7a257b8ac49" alt="Change IPv4 Address Pt2" width="300" height="200">
 </div>
 <br><br> <!-- Adds extra space between sections -->
 
-*Ref 8: Install Splunk Universal Forwarder and Enter IP of Splunk Server on Receiving Indexer.*
+*Ref 10: Install Splunk Universal Forwarder and Enter IP of Splunk Server on Receiving Indexer.*
 <div style="display: flex; gap: 20px;">
   <img src="https://github.com/user-attachments/assets/ab376990-7810-4be1-ae84-f657a64313e6" alt="Install Splunk Universal Forwarder" width="300" height="200">
   <img src="https://github.com/user-attachments/assets/db09902b-75c8-4e0f-8e19-51cee0cf0532" alt="Enter IP on Splunk Universal Forwarder" width="300" height="200">
 </div>
+
+*Ref 11: Download Sysmon and Sysmon Olaf Config on Target Machine.*
+
+*Ref 12: Install Sysmon Config through Powershell.*
+
+*Ref 13: Add Inputs.Conf file in SplunkUniversalForwader Local Folder*
+
+*Ref 14: Add Inputs.Conf file in SplunkUniversalForwader Local Folder*
+
+*Ref 15: Add index named endpoint in Splunk enterprise*
+
+*Ref 16: Configure receiving to 9997*
+
+*Ref 17: Configure Splunk and Sysmon on our Windows Server as well.*
+
+*Ref 18: Set Static IP address for Windows Server as shown as our Logical Diagram.*
+
+*Ref 19: Add Active Directory Domain Services on our Server Manager.*
+
+*Ref 20: Promote Server to Domain Controller and create a root domain name.*
+
+*Ref 21: Add users to our Active Directory.*
+
+*Ref 22: Create a static IP address for Kali Linux.*
+
+*Ref 23: Enable RDP on our Target Machine for our newly created users.*
+
+*Ref 24: Execute a successful brute force on newly created user.*
+
+*Ref 25: Check EventCode for Log Event.*
+
+*Ref 26: Install AtomicRedTeam to identify security gaps.*
+
+*Ref 27: Example: Input technique ID and generate telemetry based on creating a local account.*
+
+*Ref 28: Check event for account name based on technique ID.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
